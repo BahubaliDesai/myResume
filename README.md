@@ -1,2 +1,1 @@
-# myResume
- resume
+https://bahubalidesai.github.io/myResume/
